@@ -1,0 +1,93 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red33\green34\blue36;\red247\green247\blue247;}
+\margl1440\margr1440\vieww18200\viewh14680\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs30 \cf2 \cb3 \expnd0\expndtw0\kerning0
+1. Title:\cb1 \
+\cb3 Research study on the behavior of how people find new restaurants.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\i\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\i0\fs30 \cf2 \cb3 2. Authors and stakeholders:\cb1 \
+\cb3 Jimmy, Wan, Raymour\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\i\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\i0\fs30 \cf2 \cb3 3. Date:\cb1 \
+\cb3 August 6th, 2016\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\i\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\i0\fs30 \cf2 \cb3 4. Background:\cb1 \
+\cb3 As part of the General Assembly Android Development Immersive Class our project directive is to \'93build an Android app that enables users to discover great local businesses in fun, new ways.\'94 Currently it appears the technology employed in the restaurant industry for connecting with customers has become stale and we have been tasked to develop new innovative ways of connecting customers and restaurants.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\i\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\i0\fs30 \cf2 \cb3 5. Goals:\cb1 \
+\cb3 Determine how people discover new local delicacies/hidden gem restaurants.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\i\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\i0\fs30 \cf2 \cb3 6. Research questions:\cb1 \
+\cb3 What motivates/entices people to try new restaurants?\cb1 \
+\cb3 What emphasis is given to convenience/price/location when making a decision?\cb1 \
+\cb3 How does time of day affect people\'92s behaviors when choosing a restaurant?\cb1 \
+\cb3 How does meal type (breakfast/lunch/dinner) affect people\'92s behaviors when choosing a restaurant?\cb1 \
+\cb3 How much time to people spend choosing a restaurant?\cb1 \
+\cb3 What must a person see/hear/know before trying a NEW restaurant.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\i\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\i0\fs30 \cf2 \cb3 7. Methodology:\cb1 \
+\cb3 -User research through surveys and interviews\cb1 \
+\cb3 -Competitive/comparative analysis\cb1 \
+\cb3 -Usability testing\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\i\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\i0\fs30 \cf2 \cb3 8. Participants:\cb1 \
+\cb3 -Anyone that eats at restaurants\
+-Anyone that is tech savvy\cb1 \
+\cb3 -Age 18+\cb1 \
+\cb3 -Own a smartphone with data package.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\i\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\i0\fs30 \cf2 \cb3 9. Schedule:\cb1 \
+\cb3 Recruiting: begins August 5th, \cb1 \
+\cb3 Study day: August 6\cb1 \
+\cb3 Results Delivery: August 7th\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\i\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\i0\fs30 \cf2 \cb3 10. Script:\cb1 \
+\cb3 -If you are in an entirely new location, by yourself (no friends nearby) and you are hungry\'85 how do you find food?\cb1 \
+\cb3 -How do you determine what TYPE of food do you want to eat?\cb1 \
+\cb3 -How often do you try new restaurants? If you are new to an area, you are forced to try something new, what makes you choose one restaurant over another?\cb1 \
+\cb3 -Are you open to trying exotic delicacies of the local area?\cb1 \
+\cb3 -If Yes, how did you discover the local delicacy? \cb1 \
+\cb3 -How does cost factor in when you are deciding your restaurant choice?\cb1 \
+\cb3 \'a0\'a0\'a0\'a0-Vacation?\cb1 \
+\cb3 \'a0\'a0\'a0\'a0-Local?\cb1 \
+\cb3 \'a0\'a0\'a0\'a0-Breakfast/Lunch/Dinner?}
